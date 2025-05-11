@@ -1,0 +1,122 @@
+[
+    {
+      "id": 1,
+      "context": "Greeting",
+      "hindi": "नमस्ते",
+      "kannada": "ನಮಸ್ಕಾರ",
+      "english": "Hello",
+      "audio_url": null
+    },
+    {
+      "id": 2,
+      "context": "Politeness",
+      "hindi": "धन्यवाद",
+      "kannada": "ಧನ್ಯವಾದಗಳು",
+      "english": "Thank you",
+      "audio_url": null
+    },
+    {
+      "id": 3,
+      "context": "Politeness",
+      "hindi": "कृपया",
+      "kannada": "ದಯವಿಟ್ಟು",
+      "english": "Please",
+      "audio_url": null
+    },
+    {
+      "id": 4,
+      "context": "Basics",
+      "hindi": "हाँ",
+      "kannada": "ಹೌದು",
+      "english": "Yes",
+      "audio_url": null
+    },
+    {
+      "id": 5,
+      "context": "Basics",
+      "hindi": "नहीं",
+      "kannada": "ಇಲ್ಲ",
+      "english": "No",
+      "audio_url": null
+    },
+    {
+      "id": 6,
+      "context": "Common",
+      "hindi": "मुझे समझ नहीं आया",
+      "kannada": "ನನಗೆ ಅರ್ಥವಾಗಲಿಲ್ಲ",
+      "english": "I didn't understand",
+      "audio_url": null
+    },
+    {
+      "id": 7,
+      "context": "Common",
+      "hindi": "आप कैसे हैं?",
+      "kannada": "ನೀವು ಹೇಗಿದ್ದೀರಾ?",
+      "english": "How are you?",
+      "audio_url": null
+    },
+    {
+      "id": 8,
+      "context": "Common",
+      "hindi": "मेरा नाम ___ है",
+      "kannada": "ನನ್ನ ಹೆಸರು ___",
+      "english": "My name is ___",
+      "audio_url": null
+    },
+    {
+      "id": 9,
+      "context": "Travel",
+      "hindi": "शौचालय कहाँ है?",
+      "kannada": "ಶೌಚಾಲಯ ಎಲ್ಲಿದೆ?",
+      "english": "Where is the toilet?",
+      "audio_url": null
+    },
+    {
+      "id": 10,
+      "context": "Travel",
+      "hindi": "कितना पैसा हुआ?",
+      "kannada": "ಎಷ್ಟು ಹಣ ಆಯಿತು?",
+      "english": "How much is it?",
+      "audio_url": null
+    },
+    {
+      "id": 11,
+      "context": "Travel",
+      "hindi": "यह कहाँ है?",
+      "kannada": "ಇದು ಎಲ್ಲಿದೆ?",
+      "english": "Where is this?",
+      "audio_url": null
+    },
+    {
+      "id": 12,
+      "context": "Food",
+      "hindi": "मुझे भूख लगी है",
+      "kannada": "ನನಗೆ ಹಸಿವಾಗಿದೆ",
+      "english": "I'm hungry",
+      "audio_url": null
+    },
+    {
+      "id": 13,
+      "context": "Food",
+      "hindi": "यह स्वादिष्ट है",
+      "kannada": "ಇದು ರುಚಿಯಾಗಿದೆ",
+      "english": "This is tasty",
+      "audio_url": null
+    },
+    {
+      "id": 14,
+      "context": "Direction",
+      "hindi": "दाएं मुड़िए",
+      "kannada": "ಬಲಕ್ಕೆ ತಿರುಗಿ",
+      "english": "Turn right",
+      "audio_url": null
+    },
+    {
+      "id": 15,
+      "context": "Direction",
+      "hindi": "सीधे जाइए",
+      "kannada": "ನೇರವಾಗಿ ಹೋಗಿ",
+      "english": "Go straight",
+      "audio_url": null
+    }
+  ]
